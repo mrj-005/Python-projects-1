@@ -3,7 +3,7 @@
 
 🖱️ **Interaction First:** I successfully bridged the gap between code and user, turning complex logic into simple, satisfying button clicks and inputs.
 
-🎨 **Clean & Minimalist:** Designed using Tkinter with a focus on a "less is more" aesthetic—keeping the interface intuitive and distraction-free.
+🎨 **Clean & Minimalist:** Designed using Tkinter with a focus on a "less is more" simple keeping the interface intuitive and distraction-free.
 
 🧠 **Logic in Motion:** Mastered the art of Event-Driven Programming, ensuring the app reacts instantly and smoothly to every user action.
 
